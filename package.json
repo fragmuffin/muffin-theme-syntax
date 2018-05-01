@@ -1,13 +1,13 @@
 {
-  "name": "my-theme-syntax",
+  "name": "muffin-theme-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "My theme, nothing special",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/my-theme-syntax",
+  "repository": "https://github.com/fragmuffin/muffin-theme-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
